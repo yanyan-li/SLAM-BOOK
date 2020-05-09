@@ -21,6 +21,12 @@
 
 如果你有问题/建议，请给我发邮件：yanyan.li@pku.edu.cn, 主题带有 “GL-SLAM书稿”。
 
+## 捐助
+
+如果你想通过微信小额捐助来支持书稿的创作，我将十分感谢。
+
+![wechat_pay](../../../Desktop/wechat_pay.png)
+
 ## 版权声明
 
 本项目遵循 “署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)” 协议。这是一份普通人可以理解的[许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans)概要 (但不是替代) 。 [免责声明](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh#).
