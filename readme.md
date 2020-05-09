@@ -25,7 +25,7 @@
 
 如果你想通过微信小额捐助来支持书稿的创作，我将十分感谢。
 
-![wechat_pay](../../../Desktop/wechat_pay.png)
+![wechat_pay](images/wechat_pay.png)
 
 ## 版权声明
 
