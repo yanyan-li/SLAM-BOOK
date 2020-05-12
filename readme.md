@@ -13,7 +13,7 @@
 | 5    | tracking中对极几何与PnP           | 5.01 |      |
 | 7    | bundle adjustment, 目标方程与解算 | 5.04 |      |
 | 3.3  | normal prediction                 | 5.07 |      |
-|      |                                   |      |      |
+| 2.2  | 几何特征提取                      | 5.11 |      |
 
 ## 改善书稿质量
 
