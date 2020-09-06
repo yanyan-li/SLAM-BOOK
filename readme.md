@@ -8,19 +8,15 @@
 
 目标是每周更新一次，2020年12月完成书稿第一轮的写作。当前更新会陆续将我关注/参与的最新文章写到书中，目录中的章节也会随着内容的完善而不断调整，后面每章内容对应的代码也会整理到这个repo中。
 
-| 章节  | 更新内容                                                     | 日期 | 备注 |
-| ----- | ------------------------------------------------------------ | :--: | ---: |
-|       |                                                              |      |      |
-|       | tracking中对极几何与PnP，bundle adjustment, 目标方程与解算，normal prediction，几何特征提取，MLP分类，hello slam，pnp，sparse mapping | 五月 |      |
-| 6.2   | dense mapping                                                | 6.02 |      |
-| 6.1.1 | 增加内容 sparse mapping                                      | 6.04 |      |
-| 2.3.1 | vanishing point                                              | 6.09 |      |
-| 5.4   | decoupling 6D pose                                           | 6.14 |      |
-| 5.4   | 完善内容                                                     | 6.20 |      |
-| 3.1   | 经典网络回顾                                                 | 6.29 |      |
-| 3.2   | 优化器与学习率                                               | 7.04 |      |
-|       | fix bugs                                                     | 8.01 |      |
-| 2.1   | RANSAC                                                       | 9.06 |      |
+| 章节 | 更新内容                                                     | 日期 | 备注 |
+| ---- | ------------------------------------------------------------ | :--: | ---: |
+|      |                                                              |      |      |
+|      | tracking中对极几何与PnP，bundle adjustment, 目标方程与解算，normal prediction，几何特征提取，MLP分类，hello slam，pnp，sparse mapping | 五月 |      |
+| 6.2  | dense mapping，增加内容 sparse mapping，vanishing point，decoupling 6D pose，完善内容，经典网络回顾 | 六月 |      |
+| 3.2  | 优化器与学习率                                               | 7.04 |      |
+|      | fix bugs                                                     | 8.01 |      |
+| 2.1  | RANSAC                                                       | 9.06 |      |
+| 12.1 | structure-slam(深度SLAM 框架)                                | 9.06 |      |
 ## 改善书稿质量
 
 如果你在阅读材料的过程中发现问题，请在这里提交一个issue，我可以继续修改它。
