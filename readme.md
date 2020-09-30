@@ -31,13 +31,14 @@
 
 ![wechat_pay](images/wechat_pay.png)
 
-| 日期（德国时间）    | From 盐粒               |
-| ------------------- | ----------------------- |
-| 02.06.2020 at 05:15 | *染，感谢你的支持       |
-| 10.06.2020 at 03:36 | *晨， 感谢你的鼓励      |
-| 29.06.2020 at 04:42 | B*I, 也感谢你的关注     |
-| 03.07.2020 at 05.58 | *秋，感谢鼓励，一起加油 |
-| 10.08.2020          | *冬，感谢朋友支持       |
+| 日期       | From 盐粒                           |
+| ---------- | ----------------------------------- |
+| 02.06.2020 | *染，感谢你的支持                   |
+| 10.06.2020 | *晨， 感谢你的鼓励                  |
+| 29.06.2020 | B*I, 也感谢你的关注                 |
+| 03.07.2020 | *秋，感谢鼓励，一起加油             |
+| 10.08.2020 | *冬，感谢朋友支持                   |
+| 29.09.2020 | *帆，感谢鼓励，祝你科研工作一帆风顺 |
 
 
 ## 版权声明
@@ -56,4 +57,13 @@
 - **相同方式共享** — 如果您再混合、转换或者基于本作品进行创作，您必须基于[与原先许可协议相同的许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh#) 分发您贡献的作品。
 - **没有附加限制** — 您不得适用法律术语或者 [技术措施](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh#) 从而限制其他人做许可协议允许的事情。
 
+## 重要相关论文
+
+**Bundle adjustment method using sparse BFGS solution**, Remote Sensing Letter 
+
+**Structure-SLAM: Low-Drift Monocular SLAM in Indoor Environments**, Robotics Automation Letter
+
+**Co-Planar Parametrization for Stereo-SLAM and Visual-Inertial Odometry**, Robotics Automation Letter
+
+ 
 
