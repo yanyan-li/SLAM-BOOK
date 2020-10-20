@@ -66,5 +66,7 @@
 
 **Co-Planar Parametrization for Stereo-SLAM and Visual-Inertial Odometry**, Robotics Automation Letter
 
- 
+**RGB-D SLAM with Structural Regularities**,  arXiv
+
+
 
