@@ -10,19 +10,16 @@
 
 时隔5个月，写了50千字左右，还有很多很多坑没有填上。12月前，还有ICRA和CVPR要投稿。我们只能调整目标了，争取12月前，我们可以一起写到100页。朋友们，你们如果对书稿有修改意见，不要忘记提issue或发邮件哦。
 
-| 章节  | 更新内容                                                     | 日期  | 备注 |
-| ----- | ------------------------------------------------------------ | :---: | ---: |
-|       |                                                              |       |      |
-|       | tracking中对极几何与PnP，bundle adjustment, 目标方程与解算，normal prediction，几何特征提取，MLP分类，hello slam，pnp，sparse mapping | 五月  |      |
-| 6.2   | dense mapping，增加内容 sparse mapping，vanishing point，decoupling 6D pose，完善内容，经典网络回顾 | 六月  |      |
-| 3.2   | 优化器与学习率                                               | 七月  |      |
-|       | fix bugs                                                     | 八月  |      |
-| 2.1   | RANSAC                                                       | 9.06  |      |
-| 12.1  | structure-slam(深度SLAM 框架)                                | 9.06  |      |
-| 5.1   | 图网络简介                                                   | 9.26  |      |
-| 5.2   | 图网络层的实现原理                                           | 9.27  |      |
-| 2.2.1 | orb 特征方法                                                 | 9.30  |      |
-| 1     | 重写第一章                                                   | 10.25 |      |
+| 章节 | 更新内容                                                     | 日期  | 备注 |
+| ---- | ------------------------------------------------------------ | :---: | ---: |
+|      |                                                              |       |      |
+|      | tracking中对极几何与PnP，bundle adjustment, 目标方程与解算，normal prediction，几何特征提取，MLP分类，hello slam，pnp，sparse mapping | 五月  |      |
+| 6.2  | dense mapping，增加内容 sparse mapping，vanishing point，decoupling 6D pose，完善内容，经典网络回顾 | 六月  |      |
+| 3.2  | 优化器与学习率                                               | 七月  |      |
+|      | fix bugs                                                     | 八月  |      |
+| 2.1  | RANSAC，structure-slam(深度SLAM 框架)，图网络简介， 图网络层的实现原理，orb 特征方法 | 九月  |      |
+| 1    | 重写第一章                                                   | 十月  |      |
+| 2    | hello SLAM, 框架介绍                                         | 11.02 |      |
 ## 改善书稿质量
 
 如果你在阅读材料的过程中发现问题，请在这里提交一个issue，我可以继续修改它。
