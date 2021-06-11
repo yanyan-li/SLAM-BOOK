@@ -26,9 +26,11 @@
 | 1    | 重写第一章                                                   |  十月  |      |
 | 2    | hello SLAM, 框架介绍                                         | 11.02  |      |
 | 3    | 特征之间的约束                                               | 11.18  |      |
-| 12.3 | 优化中的特征描述                                             |  1月   | 2021 |
-| 9.2  | TSDF重建                                                     |  2.27  |      |
-| 8.6  | vio初始化 学习整理                                           |  3.27  |      |
+|      | 优化中的特征描述, TSDF重建,vio初始化 学习整理, 的vins-mono 介绍, ros介绍 |  1-5   | 2021 |
+|      |                                                              |        |      |
+|      |                                                              |        |      |
+
+
 ## 改善书稿质量
 
 如果你在阅读材料的过程中发现问题，请在这里提交一个issue，我可以继续修改它。
@@ -78,7 +80,8 @@
 
 **Co-Planar Parametrization for Stereo-SLAM and Visual-Inertial Odometry**, Robotics Automation Letter
 
-**RGB-D SLAM with Structural Regularities**,  arXiv
+**RGB-D SLAM with Structural Regularities**,  ICRA 2021
 
+**ManhattanSLAM: Robust Planar Tracking and Mapping Leveraging Mixture of Manhattan Frames**, ICRA 2021
 
-
+**SRH-Net: Stacked Recurrent Hourglass Network for Stereo Matching**, arXiv21
