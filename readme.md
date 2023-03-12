@@ -82,4 +82,8 @@
 
 **ManhattanSLAM: Robust Planar Tracking and Mapping Leveraging Mixture of Manhattan Frames**, ICRA 2021
 
-**SRH-Net: Stacked Recurrent Hourglass Network for Stereo Matching**, arXiv21
+**SRH-Net: Stacked Recurrent Hourglass Network for Stereo Matching**, RA-L 2021
+
+**E-Graph: E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**, ECCV 2022 
+
+**Tightly-coupled fusion of iGPS measurements in optimization-based visual SLAM**, Optics Express 2023
